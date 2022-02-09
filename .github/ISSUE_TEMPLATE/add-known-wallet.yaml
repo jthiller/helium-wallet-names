@@ -16,7 +16,6 @@ body:
       label: Wallet b58 Address
       description: Please provide the b58 of wallet address.
       placeholder: ex. 112ui8pK1pmkeTiNxLNqJiwjUkSobo6gf6PnB15Tw7iA4orN9B2j
-      render: text
     validations:
       required: true
 
